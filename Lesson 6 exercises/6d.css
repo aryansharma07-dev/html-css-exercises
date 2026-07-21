@@ -1,0 +1,25 @@
+p {
+    font-family: 'montserrat', sans-serif;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.name {
+    color: black;
+    font-size: 44px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.description {
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    margin-top:18px
+}
+
+.underline {
+    text-decoration: underline;
+    
+
+}
